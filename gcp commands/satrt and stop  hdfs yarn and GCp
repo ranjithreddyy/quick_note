@@ -1,0 +1,28 @@
+
+starting dfs and yarn
+
+start-dfs.sh
+start-yarn.sh
+jps
+
+
+
+Spark SQL and Spark 3 using Scala (Formerly CCA175)
+
+
+
+
+stopping  dfs and yarn
+
+
+Make sure yarn is stopped by running stop-yarn.sh.
+
+Make sure HDFS is stopped by running stop-dfs.sh.
+
+Now, you can shutdown the server using GCP Web Console.
+
+
+
+
+
+verify if running by jps

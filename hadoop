@@ -1,0 +1,6 @@
+jps         - gets you runnigs services
+
+
+
+hdfs dfs -ls help             ----------to get more details on -ls
+hdfs dfs -usage ls

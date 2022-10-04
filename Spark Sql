@@ -1,0 +1,4 @@
+tail nohup.out -- to check token for jupyter
+c1644c25fa9208e693349d7c06fbe44595d993cddac03faa ---------token to access jupyter from web
+http://ec2-44-205-223-70.compute-1.amazonaws.com:8888/ -- jypter link
+jupyter lab --ip 0.0.0.0 ---------------open juypter lab

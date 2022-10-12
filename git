@@ -1,0 +1,6 @@
+git config --edit
+git config --global --edit 
+git config --global core.autocrlf input     --- to config unix to open files(not dos)
+
+
+

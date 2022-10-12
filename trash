@@ -1,0 +1,16 @@
+Good understanding of NoSQL Data bases and hands on work experience in writing applications on No SQL data bases like Cassandra and Mongo DB.
+Familiar with data architecture including data ingestion pipeline design, Hadoop information architecture, data modeling and data mining, machine learning and advanced data processing. Experience optimizing ETL workflows.
+Knowledge in installation, configuration, supporting and managing Hadoop Clusters using Apache, Cloudera (CDH3, CDH4) distributions and on Amazon web services (AWS).
+Experienced in writing Ad Нос queries using Cloudera Impala, also used Impala analytical functions.
+In depth understanding/knowledge of Hadoop Architecture and various components such as HDFS, MapReduce Programming Paradigm, High Availability and YARN architecture.
+Experienced in working with Amazon Web Services (AWS) using EC2 for computing and S3 as storage.
+Capable of using AWS utilities such as EMR, S3 and cloud watch to run and monitor Hadoop and spark jobs on Amazon Web Services (AWS).
+Strong knowledge in working with Amazon EC2 to provide a complete solution for computing, query processing, and storage across a wide range of applications.
+Capable in using Amazon S3 to support data transfer over SSL and the data gets encrypted automatically once it is uploaded.
+
+
+http://itvdflab:8888/lab?token=8b5b6a60a1f9b30e389a82cd1402ee3499389f95f8c72c39
+data-engineering-spark-itvdflab-1  |      or http://127.0.0.1:8888/lab?token=8b5b6a60a1f9b30e389a82cd1402ee3499389f95f8c72c39
+
+
+ http://127.0.0.1:8888/lab?token=004a33f6ae04aa8d17b472128be91bdfca87005f8a69a1b1

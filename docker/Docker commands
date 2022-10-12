@@ -1,0 +1,20 @@
+
+docker-compose run hello-world  ------to check if docker is working as expected (this wil just print hello world and exit)
+docker run -i -t --rm ubuntu bash  and once u r in wsl use this command to see the memory occupied by docker *******free -h******** 
+docker-compose up -d --build ***docker image name****------------to pull the docker images and starts it (itshould be on the folder where the docker scrips are present )
+docker-compose start **image name**
+docker-compose  ps ---------to check status
+docker-compose stop -------top stop
+docker-compose logs -f --------------to check logs the docker
+docker-compose down -v --rmi all ----------delete all the images and release the volume assicated with it
+docker-compose exec itvdelab bash --------------- to get into docker image 
+cd .local/share/jupytere/runtime/jpserver-*.json | grep token   ---- to get the token for the jupter to login
+
+
+
+
+ls -lrt /opt/spark3/bin                      ---------to start anyservice go to this dir and run it
+/opt/spark3/bin/pyspark                     ----------to run pyspark       ----------
+ export PYSPARK_PYTHON=python3                ----------run this if you are mot running pysprak
+
+/data/retail_db/order_items

@@ -1,0 +1,13 @@
+Extensive experience in working with AWS cloud Platform (EC2, S3, EMR, Redshift, Lambda and Glue).
+Working knowledge of Spark RDD, Data Frame API, Data set API, Data Source API, Spark SQL and Spark Streaming.
+Developed Spark Applications by using Python and Implemented Apache Spark data processing Project to handle data from various RDBMS and Streaming sources.
+Worked with the Spark for improving performance and optimization of the existing algorithms in Hadoop.
+Using Spark Context. Spark-SQL. Spark MLib, Data Frame, Pair RDD and Spark YARN.
+Used Spark Streaming APIs to perform transformations and actions on the fly for building common.
+
+Created Datastage jobs using different stages like Transformer, Aggregator, Sort, Join, Merge, Lookup, Data Set, Funnel, Remove Duplicates, Copy, Modify, Filter. Change
+ Data Capture, Change Apply, Sample, Surrogate Key, Column Generator, Row Generator, Etc
+Expertise in Creating, Debugging, Scheduling and Monitoring jobs using Airflow for ETL batch processing to load into Snowflake for analytical processes.
+Worked in building ETL pipeline for data ingestion, data transformation, data validation on cloud service AWS, working along with data steward under data compliance.
+Worked on scheduling all jobs using Airflow scripts using python added different tasks to DAG, LAMBDA.
+

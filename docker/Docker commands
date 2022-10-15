@@ -18,3 +18,6 @@ ls -lrt /opt/spark3/bin                      ---------to start anyservice go to 
  export PYSPARK_PYTHON=python3                ----------run this if you are mot running pysprak
 
 /data/retail_db/order_items
+
+
+
